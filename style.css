@@ -64,6 +64,13 @@ header .logo{
 header .logo span{
     color:var(--blue);
 }
+header .nav {  overflow: hidden;
+  background-color: #333;
+  position: relative;
+}
+header .nav {
+  display: none;
+}
 
 header .nav a{
     text-decoration: none;
