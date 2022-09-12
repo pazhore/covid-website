@@ -65,9 +65,6 @@ header .logo span{
     color:var(--blue);
 }
 
-header .nav {
-  display: none;
-}
 
 header .nav a{
     text-decoration: none;
